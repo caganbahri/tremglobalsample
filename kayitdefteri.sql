@@ -40,8 +40,8 @@ CREATE TABLE `kayitdefteri` (
 --
 
 INSERT INTO `kayitdefteri` (`id`, `adsoyad`, `adres`, `telefon`, `eposta`) VALUES
-(6, 'Çağan Bahri', 'Gaziantep şehitkamil', '05535844622', 'caganbahri@gmail.com'),
-(7, 'Çağan', 'Gaziantep beykent', '055358446221', 'bahri@gmail.com');
+(6, 'Çağan Bahri', 'Gaziantep şehitkamil', '05535855555', 'caganbahri@gmail.com'),
+(7, 'Çağan', 'Gaziantep beykent', '05535855552', 'bahri@gmail.com');
 
 --
 -- Dökümü yapılmış tablolar için indeksler
