@@ -1,0 +1,8 @@
+.hm-gradient {
+background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.iti-flag {
+  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/10.0.2/img/flags.png");
+}
+
+.intl-tel-input.allow-dropdown {margin-left: 4%;width: 90%;}
